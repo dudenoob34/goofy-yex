@@ -8,7 +8,7 @@ a#back {
   font-size: 22.5px;
   color: white;
   text-decoration: transparent;
-  font-family: arista;
+  font-family: cambria;
   left: 50%;
   transform: translateX(-50%);
   text-shadow: 3px 1px var(--theme-clr);
